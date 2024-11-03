@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "gen": "hcm --no-cache -o generated 'src/**/*.module.css'",
+    "lint": "tsc"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "happy-css-modules": "file:../../../github.com/mizdra/happy-css-modules/happy-css-modules-3.1.1.tgz",
+    "postcss": "^8.4.47",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
