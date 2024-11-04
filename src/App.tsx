@@ -1,5 +1,5 @@
-import styles from "@/App.module.css";
-import { Button } from "@/components/Button";
+import styles from "./App.module.css";
+import { Button } from "./components/Button";
 
 export function App() {
   return (
