@@ -10,7 +10,7 @@
     "moduleResolution": "Bundler",                     /* Specify how TypeScript looks up a file from a given module specifier. */
     "rootDirs": [
       "src",
-      "generated"
+      "generated/src"
     ],
 
     /* Emit */
